@@ -5,7 +5,7 @@ on:
     branches:
       - main
       
-  jobs:
+jobs:
     docker-compose:
       runs-on: self-hosted
       
